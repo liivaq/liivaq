@@ -6,8 +6,12 @@ I'm a Software Developer based in Latvia, currently deep-diving in PHP. Highly m
 
 Dedicated to my craft, always looking for new challenges and opportunities to grow as a developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 My last three projects: 
+  <ul>
+  <li><a href="https://github.com/liivaq/Rick-and-Morty">Rick and Morty encyclopedia</a>: </li>
+  <li><a href="https://github.com/liivaq/News_Feed">News Site</a>: </li>
+  <li><a href="https://github.com/liivaq/Giphy-API">Gif search page</a>:  </li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
