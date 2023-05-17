@@ -2,17 +2,28 @@
 
 ---
 
-<!--
-**liivaq/liivaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer based in Latvia, currently deep-diving in PHP. Highly motivated individual with strong technical, problem-solving and time management skills, striving for perfection.
 
-Here are some ideas to get you started:
+Dedicated to my craft, always looking for new challenges and opportunities to grow as a developer. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+ <a href="https://www.linkedin.com/in/liva-kusina/" target=”_blank”> <img height="40" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/Linkedin.svg"></a>
+<a href="mailto:liiva.kusina@gmail.com" target=”_blank”> <img height="40" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg"></a>
+<a href="https://instagram.com/liiva.q" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" /></a>
+</p>
+
+---
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,html,css,vue,tailwind,git)]((https://skillicons.dev))
+
+---
+
+<h3 align="left">My GitHub stats:</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liivaq&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Liiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=liivaq&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
