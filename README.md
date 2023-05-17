@@ -25,9 +25,3 @@ Dedicated to my craft, always looking for new challenges and opportunities to gr
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,html,css,vue,tailwind,git)]((https://skillicons.dev))
-
----
-
-<h3 align="left">My GitHub stats:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liivaq&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Liiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=liivaq&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
