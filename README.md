@@ -8,8 +8,8 @@ Dedicated to my craft, always looking for new challenges and opportunities to gr
 
 🔭 My last three projects: 
   <ul>
-  <li><a href="https://github.com/liivaq/Rick-and-Morty"”>Rick and Morty encyclopedia</a>: website for browsing characters, locations and episodes from Rick and Morty, using API with character filter functionality. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.  </li>
-  <li><a href="https://github.com/liivaq/News_Feed">News Site</a>: website for browsing placeholder news. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling </li>
+   <li><a href="https://github.com/liivaq/News_Feed">Article Site</a>: website for browsing/adding articles or posts. Implementation of Model-View-Controller with Services and Repositories, dependency injection. CRUD implementation for articles, users - registration, login system. Usage of Twig as template engine and Tailwind for styling. </li>
+  <li><a href="https://github.com/liivaq/Rick-and-Morty"”>Rick and Morty encyclopedia</a>: website for browsing characters, locations and episodes from Rick and Morty, using API endpoints with character filter functionality. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.  </li>
   <li><a href="https://github.com/liivaq/Giphy-API">Gif search page</a>: website for browsing gifs with search functionality, using GIPHY API. Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling. </li>
   </ul>
 
