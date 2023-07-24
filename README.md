@@ -8,10 +8,22 @@ Dedicated to my craft, always looking for new challenges and opportunities to gr
 
 🔭 My last three projects: 
   <ul>
+    <li><a href="https://github.com/liivaq/Coinnecto_Banking">Coinnecto Banking</a>: Mock internet banking website built with Laravel.
+      Features different banking activities, such as:
+      <ul>
+        <li>Opening/closing accounts in different currencies</li>
+        <li>Safe transactions between accounts using 2FA</li>
+        <li>Currency conversion using currency rates from Bank of Latvia</li>
+        <li>Crypto currency market data from Coin Market Cap API</li>
+        <li>Ability to buy/sell crypto currencies from your investment account</li>
+      </ul>
+    </li>
+
    <li><a href="https://github.com/liivaq/News_Feed">Article Site</a>: website for browsing/adding articles or posts. Implementation of Model-View-Controller with Services and Repositories, dependency injection. CRUD implementation for articles, users - registration, login system. Usage of Twig as template engine and Tailwind for styling. </li>
+   
   <li><a href="https://github.com/liivaq/Rick-and-Morty"”>Rick and Morty encyclopedia</a>: website for browsing characters, locations and episodes from Rick and Morty, using API endpoints with character filter functionality. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine and Tailwind for styling.  </li>
-  <li><a href="https://github.com/liivaq/Giphy-API">Gif search page</a>: website for browsing gifs with search functionality, using GIPHY API. Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling. </li>
-  </ul>
+    </ul>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
